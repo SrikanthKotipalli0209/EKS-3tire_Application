@@ -1,4 +1,3 @@
-<img width="1728" height="863" alt="Screenshot 2026-10-06 at 18 08 08" src="https://github.com/user-attachments/assets/a23c8a83-85a1-40f0-8f7f-d6539cda91d7" />
 # Yelp Camp Web Application
 
 This web application allows users to add, view, access, and rate campgrounds by location. It is based on "The Web Developer Bootcamp" by Colt Steele, but includes several modifications and bug fixes. The application leverages a variety of technologies and packages, such as:
@@ -36,4 +35,4 @@ docker compose up
 ![](./images/register.jpg)
 <img width="1728" height="861" alt="Screenshot 2026-10-06 at 18 11 21" src="https://github.com/user-attachments/assets/8946a990-d499-434f-acf0-892ef46ce021" />
 <img width="1728" height="863" alt="Screenshot 2026-10-06 at 18 08 08" src="https://github.com/user-attachments/assets/82069447-6416-41e2-82b7-63b0fc54e18c" />
-
+<img width="1726" height="762" alt="Screenshot 2026-10-06 at 18 13 02" src="https://github.com/user-attachments/assets/3ad324a6-5e83-4823-aa8e-84f23243c72a" />
