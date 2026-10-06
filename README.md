@@ -1,3 +1,4 @@
+<img width="1728" height="863" alt="Screenshot 2026-10-06 at 18 08 08" src="https://github.com/user-attachments/assets/a23c8a83-85a1-40f0-8f7f-d6539cda91d7" />
 # Yelp Camp Web Application
 
 This web application allows users to add, view, access, and rate campgrounds by location. It is based on "The Web Developer Bootcamp" by Colt Steele, but includes several modifications and bug fixes. The application leverages a variety of technologies and packages, such as:
